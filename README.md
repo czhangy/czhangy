@@ -22,5 +22,5 @@ I'm a Computer Science major graduating in UCLA's Class of '23. I'm primarily in
 - CS M152A: Digital Design Laboratory
 
 ### Nerd stuff
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=czhangy&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=czhangy&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=czhangy" />
 
