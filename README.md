@@ -1,5 +1,5 @@
 ## 👋 Hi there, I'm Charles Zhang
-I'm a Computer Science major graduating in UCLA's Class of '23. I'm primarily interested in full-stack development, but I'm open to exploring whatever facets of Comp. Sci. are available to me. I'm currently working a full-stack role with a local organization called BruinShack, and am working on securing an internship for the Summer of '22. If you're interested in learning more about me, feel free to check out my [personal site](https://czhangy.io).
+I'm a Computer Science major graduating in UCLA's Class of '23. I'm primarily interested in full-stack development, but I'm open to exploring whatever facets of Comp. Sci. are available to me. I'm currently working a full-stack role with a local organization called BruinShack, and I'll be working with Capital One in the Summer of '22. If you're interested in learning more about me, feel free to check out my [personal site](https://czhangy.io).
 
 ### 🙋🏻‍♂️ Reach out to me!
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/c.zhangg/)
@@ -11,7 +11,6 @@ I'm a Computer Science major graduating in UCLA's Class of '23. I'm primarily in
 - ⌨️ [LeetCode](https://leetcode.com/czhangy/)
 - 📖 [DARS++](https://darsplusplus.herokuapp.com)
 - 🏠 [BruinShack](https://bruinshack.com)
-- 🖼 [The Amplification Project](https://github.com/czhangy/theamplificationproject)
 
 ### 📚 What I know
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
