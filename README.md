@@ -9,7 +9,7 @@ I'm a Computer Science major graduating in UCLA's Class of '23. I'm primarily in
 
 ### 📌 What I'm working on
 - ⌨️ [LeetCode](https://leetcode.com/czhangy/)
-- 📖 [DARS++](https://darsplusplus.herokuapp.com)
+- 🟩 [Squirdle](https://squirdle.herokuapp.com)
 - 🏠 [BruinShack](https://bruinshack.com)
 
 ### 📚 What I know
