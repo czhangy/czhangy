@@ -1,5 +1,5 @@
 ## 👋 Hi there, I'm Charles Zhang
-I'm a Computer Science major graduating in UCLA's Class of '23. I'm primarily interested in full-stack development, but I'm open to exploring whatever facets of Comp. Sci. are available to me. I'm currently the frontend lead at a local organization called BruinShack, and I'll be interning with Capital One this upcoming summer. If you're interested in learning more about me, feel free to check out my [personal site](https://czhangy.io).
+I'm a Computer Science major graduating in UCLA's Class of '23. I'm primarily interested in full-stack development, but I'm open to exploring whatever facets of Comp. Sci. are available to me. I'm currently finishing up my coursework for my junior year, and I'll be interning with Capital One this upcoming summer. If you're interested in learning more about me, feel free to check out my [personal site](https://czhangy.io).
 
 ### 🙋🏻‍♂️ Reach out to me!
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/c.zhangg/)
