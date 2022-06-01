@@ -9,7 +9,6 @@ I'm a Computer Science major graduating in UCLA's Class of '23. I'm primarily in
 
 ### 📌 What I'm working on
 - 🎲 [Minroll](https://minroll.vercel.app)
-- 🏠 [BruinShack](https://bruinshack.com)
 - ⌨️ [LeetCode](https://leetcode.com/czhangy/)
 
 ### 📚 What I know
