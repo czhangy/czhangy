@@ -1,5 +1,5 @@
 ## 👋 Hi there, I'm Charles Zhang
-I'm a Computer Science major graduating this upcoming spring from UCLA. In the fall, I'll be working as an SDE with Amazon in San Diego. f you're interested in learning more about me, feel free to check out my [personal site](https://czhangy.io).
+I'm a Computer Science major graduating this upcoming spring from UCLA. In the fall, I'll be working as an SDE with Amazon in San Diego. If you're interested in learning more about me, feel free to check out my [personal site](https://czhangy.io).
 
 ### 🙋🏻‍♂️ Reach out to me!
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/c.zhangg/)
@@ -11,4 +11,3 @@ I'm a Computer Science major graduating this upcoming spring from UCLA. In the f
 
 ### 📝 What I'm learning
 - COM SCI 130: Software Engineering
-
